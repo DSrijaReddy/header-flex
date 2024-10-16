@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    /* width: 500px;
+    border: 2px solid; */
+    padding: 10px;
+    display:flex;
+    font-size: 2rem;
+    justify-content: space-between;
+    background-color:rgb(116, 114, 114);
+    box-shadow: 20px 20px 20px rgb(171, 159, 159);
+    position: sticky;
+}
+
+.c{
+    flex-basis: 800px;
+}
